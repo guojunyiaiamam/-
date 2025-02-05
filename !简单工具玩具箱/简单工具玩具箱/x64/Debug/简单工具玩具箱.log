@@ -1,0 +1,21 @@
+﻿  FileName.cpp
+A:\果果1\c++\c++总\c++\!简单工具玩具箱\简单工具玩具箱\jiami.h(30,12): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+A:\果果1\c++\c++总\c++\!简单工具玩具箱\简单工具玩具箱\FileName.cpp(508,10): warning C4267: “参数”: 从“size_t”转换到“DWORD”，可能丢失数据
+A:\果果1\c++\c++总\c++\!简单工具玩具箱\简单工具玩具箱\FileName.cpp(548,8): warning C4101: “p”: 未引用的局部变量
+A:\果果1\c++\c++总\c++\!简单工具玩具箱\简单工具玩具箱\FileName.cpp(606,9): warning C4101: “y”: 未引用的局部变量
+A:\果果1\c++\c++总\c++\!简单工具玩具箱\简单工具玩具箱\FileName.cpp(606,6): warning C4101: “x”: 未引用的局部变量
+A:\果果1\c++\c++总\c++\!简单工具玩具箱\简单工具玩具箱\FileName.cpp(1107,39): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+A:\果果1\c++\c++总\c++\!简单工具玩具箱\简单工具玩具箱\FileName.cpp(1107,19): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+A:\果果1\c++\c++总\c++\!简单工具玩具箱\简单工具玩具箱\FileName.cpp(1118,19): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+A:\果果1\c++\c++总\c++\!简单工具玩具箱\简单工具玩具箱\FileName.cpp(1122,34): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+A:\果果1\c++\c++总\c++\!简单工具玩具箱\简单工具玩具箱\FileName.cpp(1123,26): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+A:\果果1\c++\c++总\c++\!简单工具玩具箱\简单工具玩具箱\FileName.cpp(1124,30): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+A:\果果1\c++\c++总\c++\!简单工具玩具箱\简单工具玩具箱\FileName.cpp(1173,15): warning C4101: “height”: 未引用的局部变量
+A:\果果1\c++\c++总\c++\!简单工具玩具箱\简单工具玩具箱\FileName.cpp(1173,8): warning C4101: “width”: 未引用的局部变量
+A:\果果1\c++\c++总\c++\!简单工具玩具箱\简单工具玩具箱\FileName.cpp(1678,16): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+A:\果果1\c++\c++总\c++\!简单工具玩具箱\简单工具玩具箱\FileName.cpp(1958,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  releaseHelper.cpp
+  正在生成代码...
+A:\果果1\c++\c++总\c++\!简单工具玩具箱\简单工具玩具箱\ziyuan.h(61,1): warning C4715: “ifFindProcess”: 不是所有的控件路径都返回值
+A:\果果1\c++\c++总\c++\!简单工具玩具箱\简单工具玩具箱\FileName.cpp(484,1): warning C4172: 返回局部变量或临时变量的地址: szPath
+  简单工具玩具箱.vcxproj -> A:\果果1\c++\c++总\c++\!简单工具玩具箱\x64\Debug\简单工具玩具箱.exe
